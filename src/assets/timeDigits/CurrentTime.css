@@ -1,0 +1,15 @@
+.hours {
+  color: #ff8833;
+  font-size: 3.5rem;
+}
+.minutes {
+  color: #ddff33;
+  font-size: 3.5rem;
+}
+.seconds {
+  position: absolute;
+  color: #69ff33;
+  font-size: 3.5rem;
+  top: -260px;
+  left: 100px;
+}

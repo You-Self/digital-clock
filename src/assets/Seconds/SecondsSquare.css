@@ -1,0 +1,20 @@
+.seconds-square {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border-radius: 20px;
+  left: -500px;
+  top: -80px;
+}
+
+.tick {
+  position: absolute;
+  width: 4px;
+  height: 12px;
+  background: rgba(174, 159, 255, 0.3);
+  transition: background 0.2s ease;
+}
+
+.tick.active {
+  background: rgb(242, 64, 10);
+}

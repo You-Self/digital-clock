@@ -1,0 +1,21 @@
+.date{
+  color: #ff8833;
+  font-size: 4rem;
+  position: absolute;
+  right: -500px;
+}
+
+.day {
+  color: #ee5a0f;
+  font-size: 4rem;
+  position: absolute;
+  left: 400px;
+  top: -100px;
+}
+
+.month {
+  color: #ff9633;
+  font-size: 4rem;
+  position: absolute;
+  left: 200px;
+}
